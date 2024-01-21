@@ -1,19 +1,19 @@
 # Tourism Agency GUI
 
 ## Overview
-This project presents a GUI for a Tourism Agency, designed for the CPS 510 course. It features a database system for managing tourist locations, accommodations, and more.
+This project is a GUI application for a Tourism Agency, created for the CPS 510 course. It features a comprehensive database system for managing tourist locations, accommodations, and more, with a focus on user-friendly interactions.
 
 ## Features
-- Database Integration with tables like Tourist_Locations, Accommodations, Users, Bookings.
-- User-friendly interface for easy database interaction.
-- Functionalities for creating/dropping tables, inserting queries, and data viewing.
-- Tables normalized to 3NF.
-- Backend Integration with Node.js and OracleDB.
+- **Database Integration**: Utilizes tables like Tourist_Locations, Accommodations, Users, Bookings, etc.
+- **Dynamic Interface**: A user-friendly interface built with React, providing seamless user interaction.
+- **Advanced Functionalities**: Capabilities include creating and dropping tables, inserting queries, and viewing data.
+- **Normalization**: Tables normalized to 3NF for data integrity and efficiency.
+- **Backend and Middleware**: Backend scripting in Node.js and TypeScript for robust database operations.
 
 ## Technology Stack
-- Frontend: Java, JavaFX.
-- Backend: Node.js, OracleDB.
-- Database: Oracle SQL.
+- **Frontend**: React for dynamic UI, TypeScript for type-safe coding.
+- **Backend**: Node.js with TypeScript for server-side logic.
+- **Database**: Oracle SQL for data management.
 
 ## Setup and Installation
 
