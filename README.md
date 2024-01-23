@@ -20,6 +20,7 @@ This project is a GUI application for a Tourism Agency, created for the CPS 510 
 
 ## Contributors
 - Saad Wasim
+- Wasay Adil
 
 ## Acknowledgements
 Project for CPS 510, guided by Dr. A. Abhari at Toronto Metropolitan University.
